@@ -22,7 +22,7 @@ def start_here():
     return "Hi! This is the home page."
 
 
-@app.route('/hello')
+@app.route('/hello/')
 def say_hello():
     """Say hello to user."""
 

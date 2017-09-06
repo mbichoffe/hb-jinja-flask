@@ -1,9 +1,6 @@
-<!doctype html>
-<html>
-<head>
-  <title>Madlibs</title>
-</head>
-<body>
+{% extends "base.html" %}
+{% block title %}Madlibs{% endblock %}
+{% block content %}
 
 <h1>Insert your choices for the questions below:</h1>
 
@@ -14,5 +11,4 @@
   Name an adjective<input type="text" name="adjective"><br>
   <input type="submit">
 </form>
-</body>
-</html>
+{% endblock %}

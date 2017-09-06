@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 60px;
+    background-color: #ff3333;
+}
+body{
+background-image: url("https://st2.depositphotos.com/4653577/8124/v/950/depositphotos_81243392-stock-illustration-pattern-with-cute-cartoon-watermelon.jpg")
+}
+
+form {
+
+    height: 300px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #b3ff99;
+    font-family: "Georgia", serif;
+    padding:20px;
+    padding-color: #004d00;
+}
+footer {
+    font-size: 10px;
+    font-weight: bold;
+
+}
+.final-output{
+    font-size: 40px;
+    background-color: #ff3333;
+    text-align: center;
+}
